@@ -13,7 +13,7 @@ Download/clone this repo into a directory searchable by ASDF. Example:
 
 ``` shell
 cd ~/common-lisp/
-git clone https://github.com/madand/solarized-colors.git
+git clone https://github.com/madand/cl-solarized-colors.git
 ```
 
 The you can load the system with ASDF or Quicklisp:
