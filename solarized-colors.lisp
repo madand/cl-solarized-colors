@@ -5,49 +5,49 @@
 ;; https://ethanschoonover.com/solarized/#usage-development
 
 (a:define-constant +base03+  "002b36" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base03 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - background
  * light - <none>")
 
 (a:define-constant +base02+  "073642" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base02 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - background highlights
  * light - <none>")
 
 (a:define-constant +base01+  "586e75" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base01 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - comments / secondary content
  * light - optional emphasized content")
 
 (a:define-constant +base00+  "657b83" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base00 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - <none>
  * light - body text / default code / primary content")
 
 (a:define-constant +base0+   "839496" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base0 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - body text / default code / primary content
  * light - <none>")
 
 (a:define-constant +base1+   "93a1a1" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base1 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - optional emphasized content
  * light - comments / secondary content")
 
 (a:define-constant +base2+   "eee8d5" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base2 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - <none>
  * light - background highlights")
 
 (a:define-constant +base3+   "fdf6e3" :test 'equal :documentation
-  "Base color of the Solarized palette.
+  "base3 color of the Solarized palette.
 Intended role in the dark and light theme variants:
  * dark  - <none>
  * light - background")
