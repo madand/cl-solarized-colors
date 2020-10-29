@@ -22,5 +22,3 @@
    #:+blue+
    #:+cyan+
    #:+green+))
-
-(in-package #:solarized-colors)
